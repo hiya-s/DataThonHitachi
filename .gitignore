@@ -26,3 +26,4 @@ dist-ssr
 # ignore local env with secrets
 src/.env
 src/.env
+src/.env
