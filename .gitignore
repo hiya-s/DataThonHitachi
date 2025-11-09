@@ -27,3 +27,8 @@ dist-ssr
 src/.env
 src/.env
 src/.env
+
+.env
+*.env
+src/.env
+
